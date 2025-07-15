@@ -15,7 +15,7 @@ This is an **EDA-based project** to investigate the reasons behind customer chur
 
 # Dataset Description
 
-* **Source:** [IBM Sample Dataset on Telco Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+* **Source:** [Dataset on Telco Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 * **Rows:** 7,043
 * **Columns:** 21
 * **Target Variable:** `Churn` (Yes/No)
@@ -78,7 +78,8 @@ https://github.com/Avinash0821/Customer-Churn-Analysis
 3. **Launch Jupyter Notebook**
 
    ```
-   
+   jupyter notebook Main.ipynb
+
    ```
 
 ---
