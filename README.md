@@ -40,7 +40,7 @@ This is an **EDA-based project** to investigate the reasons behind customer chur
 * Churn rate analysis by service types and demographics
 * Correlation heatmap and tenure segmentation
 
-📁 Notebook: [`Telco_EDA.ipynb`](Telco_EDA.ipynb)
+📁 Notebook: [`Telco Churn Customer_EDA.ipynb`](https://github.com/Avinash0821/Customer-Churn-Analysis/blob/main/Main.ipynb)
 
 ---
 
@@ -66,7 +66,7 @@ This is an **EDA-based project** to investigate the reasons behind customer chur
 1. **Clone the Repository**
 
 ```
-
+https://github.com/Avinash0821/Customer-Churn-Analysis
 ```
 
 2. **Install Requirements**
@@ -77,8 +77,8 @@ This is an **EDA-based project** to investigate the reasons behind customer chur
 
 3. **Launch Jupyter Notebook**
 
-   ```bash
-   jupyter notebook Telco_EDA.ipynb
+   ```
+   
    ```
 
 ---
