@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyterlab
+notebook
+scikit-learn  # optional, useful for encoding or model prep
